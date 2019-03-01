@@ -1,0 +1,15 @@
+ul.navmenu-h a {
+    float: none;
+    /*width: 158px;*/
+}
+
+ul.navmenu-v a {
+    /*width: 158px;*/
+}
+
+div#fantoni_content, div#fantoni_home_content { height: 240px; }
+
+#fc_left_column_int.fc_gallery { height: 240px; }
+#fc_right_column_int.fc_gallery { height: 240px; }
+
+
